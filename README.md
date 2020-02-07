@@ -1,6 +1,6 @@
 # Solution : Frontend Mentor - Ping coming soon page
 
-[Live Preview Link](https://www.frontendmentor.io)
+[Live Preview Link](https://frontendmentor-ping-coming-soon-page.now.sh/)
 
 ![Design preview for the Ping coming soon page coding challenge](./design/desktop-preview.jpg)
 
